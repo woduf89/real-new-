@@ -1,4 +1,4 @@
-const CUT_IDX = 0; // 
+const CUT_IDX = 18; // 
 
 function promptTrainNo() {
       const v = window.prompt('지금 몰고 있는 열차번호를 입력하세요 (예: 9116)', MY_TRAIN_MANUAL);
